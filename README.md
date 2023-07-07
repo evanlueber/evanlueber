@@ -3,7 +3,7 @@
 
 I'm 18 years old and live switzerland. I like to programm Frontend Designs. I do this in React and HTML. I'm studying IT in Winterthur/Switzerland
 
-- 🔭 I’m currently working on and E-Shop with [Ael Banyard](https://github.com/AelElliotBanyard){:target="blank"}
+- 🔭 I’m currently working on and E-Shop with [Ael Banyard](https://github.com/AelElliotBanyard)
 - 🌱 I’m currently learning react and tailwind
 <!--
 - 👯 I’m looking to collaborate on ...
