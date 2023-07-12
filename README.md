@@ -29,7 +29,7 @@ src="https://img.shields.io/badge/-css-1572B6?&style=for-the-badge&logo=css3&log
 
 <br />
 
-### Framework
+### Frameworks
 <img align="left" alt="next.js"
 src="https://img.shields.io/badge/-next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
