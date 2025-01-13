@@ -1,9 +1,9 @@
 ### Hi there 👋
 #### I'm Evan
-I'm 18 years old and live switzerland. I like to programm Frontend Designs. I do this in React and HTML. I'm studying IT in Winterthur/Switzerland
+I'm 20 years old and live switzerland and mainly I really like to programm Frontend Designs.
 
 - 🔭 I’m currently working on and E-Shop with [Ael Banyard](https://github.com/AelElliotBanyard)
-- 🌱 I’m currently learning react and tailwind
+- 🌱 I’m currently working with the tool backstage.io
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
